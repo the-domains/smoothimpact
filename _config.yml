@@ -1,14 +1,8 @@
 layout_spectrum: 1
-typography_spectrum: 0.8405018
 color:
-  saturation: 0.6451613
-  lightness: 0.4408602
+  saturation: 0.40681
   brandStrength: 0.311828
+  lightness: 0.2777778
   rhythmicContrast: 0.1863799
-  brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+typography_spectrum: 0.8405018
 name: smoothimpact
